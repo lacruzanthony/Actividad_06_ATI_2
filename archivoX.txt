@@ -1,1 +1,1 @@
-cambiando mensaje en el master
+cambiando mensaje en el branch auxiliar
